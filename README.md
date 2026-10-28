@@ -1,5 +1,3 @@
-# Bank-Marketing-Deposit-Prediction
-
 # Bank Marketing: Term Deposit Subscription Prediction
 
 Predicts whether a customer will subscribe to a term deposit after a marketing call, using XGBoost.
