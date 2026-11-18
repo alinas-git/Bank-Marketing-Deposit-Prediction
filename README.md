@@ -8,7 +8,6 @@ Predicts whether a customer will subscribe to a term deposit after a marketing c
 - Customer info (age, job, education, balance, loans) and campaign info (contact type, month, number of calls, previous outcome)
 - Classes are almost balanced (about 47% subscribed)
 
-
 ## Workflow
 1. Data overview and cleaning
 2. Exploratory data analysis
